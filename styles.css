@@ -1,0 +1,15 @@
+
+.noSave{
+    pointer-events: none;
+}
+
+.imageHeader{
+    display: block;
+    width: 20%;
+    min-width: 200px;
+    margin: 0 auto;
+}
+
+.centerText{
+    text-align: center;
+}
